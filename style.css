@@ -1,0 +1,177 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+body{
+  background: rgba(13, 13, 14, 0.479)url(./assets/pexels-maxyne-barcel-10402282\ 1.png) ;
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: darken ;
+  height:100vh;
+}
+
+/* ------->> BY FLEXBOX +responsive -------->> */
+/* ---------NAVBAR------------ */
+.navbar{
+display: flex;
+flex-wrap: wrap;
+justify-content:space-between;
+margin: 4vh;
+align-items: center;
+}
+ul.list{
+  
+  color: #F4BE2C;
+  display: flex;
+flex-wrap: wrap;
+}
+
+  .list-item{
+    list-style-type: none;
+    margin-right: 3vw;
+    font-size: 1.5em;
+  }
+
+
+button.button-small{
+  
+  border: none;
+  font-size: 2.2em;
+  padding: 0em 1.4em;
+  background-color: #E6425E;
+  color: white;
+  
+}
+.hero{
+  display: flex;
+flex-wrap: wrap;
+flex-direction:column ;
+align-items: center;
+}
+h1.hero-heading{
+  margin-top: 1.5em;
+  text-align: center;
+    color: #F4BE2C;
+    font-size: 6em;
+   ;
+    width: 54%;
+   
+
+}
+button.button-large{
+  border: none;
+  font-size: 2.2em;
+  padding: 0em 1.4em;
+    background-color: #E6425E;
+    color: white;
+}  
+.bottom{
+  
+ text-align: right;
+ margin-right: 2em;
+}
+@media screen and (max-width: 1010px) {
+  .list-item{
+    margin: 1em 0em;
+  }
+  .navbar{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+margin-bottom: 2em
+;
+    }
+    .list-item{
+      
+      margin:1em 1.5vw;
+      font-size: 2em;
+    }
+    h1.hero-heading{
+      text-align: center;
+       font-size: 4.5em;
+       width: 50%;
+       margin-top: 2em;
+    }
+    .bottom{
+  
+      margin-top: 4em;
+     }
+
+}
+
+/* ----->> By POSITIONING---------->> */
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+/* ------------------------------ */
+/* nav.navbar div img{
+  
+    padding-left: 46px;
+    padding-top: -5px;
+    margin-top: 50px;
+    margin-left: 46px;
+    margin-bottom: 45px;
+}
+ul.list{
+  position: relative;
+  left: 600px;
+  top: -75px;
+  color: #F4BE2C;
+  display: inline-block;
+  margin-bottom: 127px;
+  padding-top: -90px;
+  
+}
+button.button-small{
+  
+  position: absolute;
+  right: 100px;
+  top: 66px;
+  font-size: 40px;
+  background-color: #E6425E;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+li.list-item{
+  display: inline;
+  margin: 9px;
+  font-size: 21px;
+  padding: 34px;
+  font-weight: bold;
+
+}
+*/
+
+/* ------------------------------ */
+/* ---------- HERO ------------ */
+/* ------------------------------ */
+
+/* h1.hero-heading{
+  text-align: center;
+    color: #F4BE2C;
+    font-size: 96px;
+    display: inline-block;
+    padding: 115px;
+    margin-top: -190px;
+    width: 65%;
+    margin-left: 337px;
+    margin-right: 227px;
+
+}
+.bottom div img{
+  position: fixed;
+  right:67px;
+  bottom: 67px;
+}
+button.button-large{
+  position: relative;
+    left: 781px;
+    padding: 15px;
+    font-size: 35px;
+    margin-top: -43px;
+    background-color: #E6425E;
+    color: white;
+}  */
