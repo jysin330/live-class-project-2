@@ -1,26 +1,34 @@
-# My Name
+## My Name
 
-## JYOTI SINGH
+### JYOTI SINGH
 
-# PROJECT NAME
+## PROJECT NAME
 
-## Delicious Food
+### Delicious Food
 
-# About
+## About
 
-- ## Used HTML And CSS.
-- ## Style by Positioning and flex-box seperatly.
-- ## Worked firstly with positioning and done the same project with flex-box also.
-- ## Laptop Based ,not responsive.
+- ### Used HTML And CSS.
+- ### Style by Positioning and flex-box seperatly.
+- ### Worked firstly with positioning and done the same project with flex-box also.
+- ### Laptop Based ,not responsive.
 
-# WHAT I LEARN FROM THIS PROJECT?
+## WHAT I LEARN FROM THIS PROJECT?
 
-- ## Here, i practiced more with positioning and flex box.
-- ## I learn how to give background image by using some of the properties of background .
+- ### Here, i practiced more with positioning and flex box.
+- ### I learn how to give background image by using some of the properties of background .
 
-- ## This gives confidence to do other projects as well.
+- ### This gives confidence to do other projects as well.
 
-# TIME TAKEN TO COMPLETE
+## TIME TAKEN TO COMPLETE
 
-- ## With positioning it takes 6-7 hour
-- ## With flex-box it takes 3-4 hour
+- ### With positioning it takes 6-7 hour
+- ### With flex-box it takes 3-4 hour
+
+## PHOTOS
+
+![Delicious Food](./myScreenshot.png)
+
+### WEBSITE LINK
+
+[Visit Link](https://restaurant-page2.netlify.app/)
