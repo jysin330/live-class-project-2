@@ -27,7 +27,7 @@
 
 ## PHOTOS
 
-![Delicious Food](./myScreenshot.png)
+![restaurant-home-page](./myScreenshot.png)
 
 ### WEBSITE LINK
 
